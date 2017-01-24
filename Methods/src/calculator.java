@@ -7,7 +7,7 @@ public static double one;
 public static double two;
 public static void main(String[] args)
 	{
-		calcSetUp();
+		//calcSetUp();
 	
 	}
 	public static void calcSetUp()
